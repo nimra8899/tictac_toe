@@ -6,7 +6,7 @@ let boxes=document.querySelectorAll(".box");
 
 let resetbtn=document.querySelector("#reset");
 
-
+//add cmments
 let turno=true;//jab turno true hoga to o aaye ga jab turn x true hoga to x aye ga
 //ik player ha x pr ik player ha o
 //winning patterns store krne k liye array use ho
