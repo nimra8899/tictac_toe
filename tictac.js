@@ -5,6 +5,7 @@ let msg =document.querySelector("#msg");
 let boxes=document.querySelectorAll(".box");
 
 let resetbtn=document.querySelector("#reset");
+///gvhgvgcfcffcgfcgfcgfcgcgcyv
 
 
 let turno=true;//jab turno true hoga to o aaye ga jab turn x true hoga to x aye ga
